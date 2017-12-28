@@ -1,0 +1,15 @@
+B:\проги\Semestr2Att3\Grafh\bin\Debug\Grafh.dll
+B:\проги\Semestr2Att3\Grafh\bin\Debug\Grafh.pdb
+B:\проги\Semestr2Att3\Grafh\obj\Debug\ClassLibraryGrafh.csprojResolveAssemblyReference.cache
+B:\проги\Semestr2Att3\Grafh\obj\Debug\Grafh.dll
+B:\проги\Semestr2Att3\Grafh\obj\Debug\Grafh.pdb
+C:\Users\bereg\Desktop\ДискреткаГрафы\Grafh\bin\Debug\Grafh.dll
+C:\Users\bereg\Desktop\ДискреткаГрафы\Grafh\bin\Debug\Grafh.pdb
+C:\Users\bereg\Desktop\ДискреткаГрафы\Grafh\obj\Debug\ClassLibraryGrafh.csprojResolveAssemblyReference.cache
+C:\Users\bereg\Desktop\ДискреткаГрафы\Grafh\obj\Debug\Grafh.dll
+C:\Users\bereg\Desktop\ДискреткаГрафы\Grafh\obj\Debug\Grafh.pdb
+C:\Users\Kirill\Downloads\progi_2_kurs\ДискреткаГрафы\Grafh\bin\Debug\Grafh.dll
+C:\Users\Kirill\Downloads\progi_2_kurs\ДискреткаГрафы\Grafh\bin\Debug\Grafh.pdb
+C:\Users\Kirill\Downloads\progi_2_kurs\ДискреткаГрафы\Grafh\obj\Debug\ClassLibraryGrafh.csprojResolveAssemblyReference.cache
+C:\Users\Kirill\Downloads\progi_2_kurs\ДискреткаГрафы\Grafh\obj\Debug\Grafh.dll
+C:\Users\Kirill\Downloads\progi_2_kurs\ДискреткаГрафы\Grafh\obj\Debug\Grafh.pdb

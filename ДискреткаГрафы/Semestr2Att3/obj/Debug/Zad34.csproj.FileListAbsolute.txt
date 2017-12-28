@@ -1,0 +1,12 @@
+C:\Users\Kirill\Downloads\progi_2_kurs\ДискреткаГрафы\Semestr2Att3\bin\Debug\Semestr2Att3.exe.config
+C:\Users\Kirill\Downloads\progi_2_kurs\ДискреткаГрафы\Semestr2Att3\bin\Debug\Semestr2Att3.exe
+C:\Users\Kirill\Downloads\progi_2_kurs\ДискреткаГрафы\Semestr2Att3\bin\Debug\Semestr2Att3.pdb
+C:\Users\Kirill\Downloads\progi_2_kurs\ДискреткаГрафы\Semestr2Att3\bin\Debug\Grafh.dll
+C:\Users\Kirill\Downloads\progi_2_kurs\ДискреткаГрафы\Semestr2Att3\bin\Debug\Grafh.pdb
+C:\Users\Kirill\Downloads\progi_2_kurs\ДискреткаГрафы\Semestr2Att3\obj\Debug\Zad34.csprojResolveAssemblyReference.cache
+C:\Users\Kirill\Downloads\progi_2_kurs\ДискреткаГрафы\Semestr2Att3\obj\Debug\Semestr2Att3.FormGraph.resources
+C:\Users\Kirill\Downloads\progi_2_kurs\ДискреткаГрафы\Semestr2Att3\obj\Debug\Semestr2Att3.FormGraphDraw.resources
+C:\Users\Kirill\Downloads\progi_2_kurs\ДискреткаГрафы\Semestr2Att3\obj\Debug\Semestr2Att3.Properties.Resources.resources
+C:\Users\Kirill\Downloads\progi_2_kurs\ДискреткаГрафы\Semestr2Att3\obj\Debug\Zad34.csproj.GenerateResource.Cache
+C:\Users\Kirill\Downloads\progi_2_kurs\ДискреткаГрафы\Semestr2Att3\obj\Debug\Semestr2Att3.exe
+C:\Users\Kirill\Downloads\progi_2_kurs\ДискреткаГрафы\Semestr2Att3\obj\Debug\Semestr2Att3.pdb

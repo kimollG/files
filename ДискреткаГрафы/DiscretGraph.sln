@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zad34", "Semestr2Att3\Zad34.csproj", "{3C374146-99D3-4261-A77E-B6279715C980}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Задача1", "Задача1", "{33239BB4-9A2D-413D-B5D8-572E56ADE1F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryGrafh", "Grafh\ClassLibraryGrafh.csproj", "{E6C8B46E-5CA2-4431-9065-5386882C321A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C374146-99D3-4261-A77E-B6279715C980}.Debug|x86.ActiveCfg = Debug|x86
+		{3C374146-99D3-4261-A77E-B6279715C980}.Debug|x86.Build.0 = Debug|x86
+		{3C374146-99D3-4261-A77E-B6279715C980}.Release|x86.ActiveCfg = Release|x86
+		{3C374146-99D3-4261-A77E-B6279715C980}.Release|x86.Build.0 = Release|x86
+		{E6C8B46E-5CA2-4431-9065-5386882C321A}.Debug|x86.ActiveCfg = Debug|x86
+		{E6C8B46E-5CA2-4431-9065-5386882C321A}.Debug|x86.Build.0 = Debug|x86
+		{E6C8B46E-5CA2-4431-9065-5386882C321A}.Release|x86.ActiveCfg = Release|x86
+		{E6C8B46E-5CA2-4431-9065-5386882C321A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3C374146-99D3-4261-A77E-B6279715C980} = {33239BB4-9A2D-413D-B5D8-572E56ADE1F1}
+	EndGlobalSection
+EndGlobal
